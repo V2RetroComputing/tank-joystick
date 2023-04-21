@@ -1,3 +1,4 @@
+$fn=64;
 
 // Bottom
 difference() {
